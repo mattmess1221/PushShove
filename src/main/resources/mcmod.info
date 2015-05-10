@@ -1,0 +1,11 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "PushShove",
+		"name": "Push and Shove",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"authorList": [ "killjoy1221" ],
+		"description": "Adds back players being pushed around by other players and mobs."
+	}]
+}

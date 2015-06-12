@@ -16,12 +16,12 @@ buildscript {
 apply plugin: 'forge'
 
 archivesBaseName = "PushShove"
-version = "1.0"
+version = "1.1"
 
 minecraft {
-    version = "1.7.10-recommended"
+    version = "1.8-recommended"
     runDir = "run"
-    mappings = "stable_12"
+    mappings = "stable_16"
     replace "@VERSION@":project.version
 }
 processResources{
